@@ -1,14 +1,14 @@
 # Documentação e Analises
 * [PDF](http://www.dropwizard.io/1.0.2/docs/)
-* [Jupyter](http://www.dropwizard.io/1.0.2/docs/)
+* [Jupyter](https://github.com/Leostayner/Simulation2DPhysics/tree/master/jupyter/)
 
 
 # Como Rodar os Testes
-  [Testes](http://www.dropwizard.io/1.0.2/docs/)
+  [Testes](https://github.com/Leostayner/Simulation2DPhysics/tree/master/test/)
   
   Os testes foram implementados com o uso de um script python responsavel por realizar as comparações do resultado de saida do programa com o resultado esperado. Para rodar os testes basta executar o comando python3 test.py, Caso queira adicionar um novo teste deve-se criar um novo arquivo input.txt (entrada para o codigo principal ), assim como um arquivo output.txt (resultado esperado), a estrutura destes arquivos deve seguir os padroes do projeto.
 
-Em seguida deve-se adicionar o nome destes arquivos recem criados a lista de testes que o scripit ira executar, alterando
+Em seguida deve-se adicionar o nome destes arquivos recem criados a lista de testes que o scripit ira executar, obtendo-se ao executar o excript o seguinte layout.
 
 
 ## Padrões do Projeto
