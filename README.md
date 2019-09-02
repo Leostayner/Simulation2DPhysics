@@ -22,7 +22,8 @@ m wr hr x y vx vy
 dt print_freq max_iter
 ```
 w, h e mu_d se referem ao tamanho do campo de simulação e seu coeficiente de atrito dinâmico.  
-N é o número de retângulos da simulação. Cada linha subsequente contém um retângulo com as seguintes propriedades:  
+N é o número de retângulos da simulação. 
+Cada linha subsequente contém um retângulo com as seguintes propriedades:  
 massa m  
 largura wr  
 altura hr  
