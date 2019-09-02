@@ -10,6 +10,8 @@
 
 Em seguida deve-se adicionar o nome destes arquivos recém criados a lista de testes dentro do script. Ao executar o script obtém-se o seguinte layout.
 
+![img1](./imgs/img1.png)
+
 
 ## Padrões do Projeto
 ### Input
