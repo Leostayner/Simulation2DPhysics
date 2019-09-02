@@ -11,15 +11,16 @@
 Em seguida deve-se adicionar o nome destes arquivos recem criados a lista de testes que o scripit ira executar, alterando
 
 
-```
 ## Padrões do Projeto
 ### Input
+```
 w h mu_d
 N
 m wr hr x y vx vy 
 .... 
 m wr hr x y vx vy 
 dt print_freq max_iter
+```
 w, h e mu_d se referem ao tamanho do campo de simulação e seu coeficiente de atrito dinâmico.
 N é o número de retângulos da simulação. Cada linha subsequente contém um retângulo com as seguintes propriedades:
 massa m
@@ -33,12 +34,12 @@ a simulação deverá rodar até max_iter vezes. Note que ela pode acabar antes.
 
 ## Output
 A cada print_freq iterações o programa mostra o estado atual da simulação no seguinte formato.
-
+```
 iter
 x1 y1 vx1 vy1
 ...
 xN yN vxN vyN
 --------
-
-Obs: não deve haver espaços vazios no final de cada linha, assim como linhas vazias no final do arquivo
 ```
+Obs: não deve haver espaços vazios no final de cada linha, assim como linhas vazias no final do arquivo
+
