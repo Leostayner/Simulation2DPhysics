@@ -6,9 +6,9 @@
 # Como Rodar os Testes
   [Testes](https://github.com/Leostayner/Simulation2DPhysics/tree/master/test/)
   
-  Os testes foram implementados com o uso de um script python responsavel por realizar as comparações do resultado de saida do programa com o resultado esperado. Para rodar os testes basta executar o comando python3 test.py, Caso queira adicionar um novo teste deve-se criar um novo arquivo input.txt (entrada para o codigo principal ), assim como um arquivo output.txt (resultado esperado), a estrutura destes arquivos deve seguir os padroes do projeto.
+  Os testes foram implementados com o uso de um script python responsável por realizar as comparações do resultado de saída do programa com o resultado esperado. Para rodar os testes basta executar o comando python3 test.py, Caso queira adicionar um novo teste deve-se criar um novo arquivo input.txt (entrada para o código principal ), assim como um arquivo output.txt (resultado esperado), a estrutura desses arquivos deve seguir os padrões do projeto.
 
-Em seguida deve-se adicionar o nome destes arquivos recem criados a lista de testes dentro do scripit. Ao executar o excript obtem-se o seguinte layout.
+Em seguida deve-se adicionar o nome destes arquivos recém criados a lista de testes dentro do script. Ao executar o script obtém-se o seguinte layout.
 
 
 ## Padrões do Projeto
@@ -43,4 +43,6 @@ xN yN vxN vyN
 --------
 ```
 Obs: não deve haver espaços vazios no final de cada linha, assim como linhas vazias no final do arquivo
+
+
 
