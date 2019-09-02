@@ -1,0 +1,7 @@
+/home/leonardo/Semestre8/SuperComputacao/Simulation2DPhysics/build/CMakeFiles/simulation_O1.dir
+/home/leonardo/Semestre8/SuperComputacao/Simulation2DPhysics/build/CMakeFiles/rebuild_cache.dir
+/home/leonardo/Semestre8/SuperComputacao/Simulation2DPhysics/build/CMakeFiles/simulation_O3.dir
+/home/leonardo/Semestre8/SuperComputacao/Simulation2DPhysics/build/CMakeFiles/simulation_O0.dir
+/home/leonardo/Semestre8/SuperComputacao/Simulation2DPhysics/build/CMakeFiles/simulation_O2.dir
+/home/leonardo/Semestre8/SuperComputacao/Simulation2DPhysics/build/CMakeFiles/simulation_O3F.dir
+/home/leonardo/Semestre8/SuperComputacao/Simulation2DPhysics/build/CMakeFiles/edit_cache.dir

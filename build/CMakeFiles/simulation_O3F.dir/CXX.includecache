@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leonardo/Semestre8/SuperComputacao/Simulation2DPhysics/src/main.cpp
+iostream
+-
+string
+-
+vector
+-
+stdexcept
+-
+chrono
+-
+iomanip
+-
+math.h
+/home/leonardo/Semestre8/SuperComputacao/Simulation2DPhysics/src/math.h
+rectangle.hpp
+/home/leonardo/Semestre8/SuperComputacao/Simulation2DPhysics/src/rectangle.hpp
+
+/home/leonardo/Semestre8/SuperComputacao/Simulation2DPhysics/src/rectangle.cpp
+iostream
+-
+rectangle.hpp
+/home/leonardo/Semestre8/SuperComputacao/Simulation2DPhysics/src/rectangle.hpp
+math.h
+/home/leonardo/Semestre8/SuperComputacao/Simulation2DPhysics/src/math.h
+vector
+-
+
+/home/leonardo/Semestre8/SuperComputacao/Simulation2DPhysics/src/rectangle.hpp
+utility
+-
+
