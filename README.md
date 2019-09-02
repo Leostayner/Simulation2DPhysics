@@ -1,4 +1,4 @@
-#Documentação e Analises
+# Documentação e Analises
 * [PDF](http://www.dropwizard.io/1.0.2/docs/)
 * [Jupyter](http://www.dropwizard.io/1.0.2/docs/)
 
@@ -11,7 +11,7 @@
 Em seguida deve-se adicionar o nome destes arquivos recem criados a lista de testes que o scripit ira executar, alterando
 
 
-
+```
 ## Padrões do Projeto
 ### Input
 w h mu_d
@@ -41,3 +41,4 @@ xN yN vxN vyN
 --------
 
 Obs: não deve haver espaços vazios no final de cada linha, assim como linhas vazias no final do arquivo
+```
